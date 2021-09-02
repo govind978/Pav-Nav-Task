@@ -1,1 +1,9 @@
 # Pav-Nav-Task
+![Screenshot_20210902-131227_Paynav task](https://user-images.githubusercontent.com/68467567/131803898-2ee76c84-033d-4a9f-bd89-66934a7b92f4.jpg)
+![Screenshot_20210902-131231_Paynav task](https://user-images.githubusercontent.com/68467567/131803907-1f94e873-88b1-488d-9adc-d48f7f164ab1.jpg)
+![Screenshot_20210902-131238_Paynav task](https://user-images.githubusercontent.com/68467567/131803912-bc8f3049-bef7-4a36-a312-6c442348c582.jpg)
+![Screenshot_20210902-131246_Paynav task](https://user-images.githubusercontent.com/68467567/131803915-cd7d08f4-8bb3-4e15-adad-2f78dc07002c.jpg)
+![Screenshot_20210902-131252_Paynav task](https://user-images.githubusercontent.com/68467567/131803923-885210c4-4512-4d3a-9a09-52dd74e021e0.jpg)
+![Screenshot_20210902-131300_Paynav task](https://user-images.githubusercontent.com/68467567/131803931-3716c699-cbbe-447d-ac19-66b7832d9228.jpg)
+![Screenshot_20210902-131304_Paynav task](https://user-images.githubusercontent.com/68467567/131803935-45b76678-cad6-478b-be22-a5c029ae7c6c.jpg)
+![Screenshot_20210902-131317_Paynav task](https://user-images.githubusercontent.com/68467567/131803938-3d947886-2089-4378-9190-e8f8b17a4e00.jpg)
