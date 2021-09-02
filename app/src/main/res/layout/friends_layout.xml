@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/layout_friends"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_marginTop="8dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/friend_image"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/man"/>
+
+        <TextView
+            android:id="@+id/tv_name_friends_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/friend_image"
+            android:text="Harshada"
+            android:textColor="@color/text_color_black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_toRightOf="@id/friend_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_name_friends"
+            android:text="last interacted 7d ago"
+            android:textSize="12sp"
+            android:layout_marginLeft="12dp"
+            android:textColor="@color/text_color_black"/>
+
+        <TextView
+            android:id="@+id/tv_rupees_friends"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10dp"
+            android:text="Rs. 3,332"
+            android:textColor="@color/text_color_black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/tv_rupees_friends"
+            android:text="due"
+            android:textSize="12sp"
+            android:layout_marginLeft="12dp"
+            android:textColor="@color/text_color_black"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
